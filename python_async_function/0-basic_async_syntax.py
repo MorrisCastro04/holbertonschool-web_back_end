@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """funcion to wait a period of time"""
 import asyncio
 import random
