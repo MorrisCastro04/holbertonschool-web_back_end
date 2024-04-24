@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 Takes a string `k` and a number `v` 
 and returns a tuple with `k` as the first element and the 

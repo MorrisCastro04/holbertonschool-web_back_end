@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Calculate the sum of all the elements in the input list."""
 from typing import List
 
