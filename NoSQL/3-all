@@ -1,2 +1,2 @@
 // list all documenst
-show collections;
+db.school.find();
